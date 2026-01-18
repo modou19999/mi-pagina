@@ -32,3 +32,8 @@ footer {
     background-color: #4CAF50;
     color: white;
 }
+
+section {
+    color: #4CAF50;
+    margin-bottom: 10px;
+}
